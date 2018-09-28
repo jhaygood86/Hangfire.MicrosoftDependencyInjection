@@ -1,0 +1,2 @@
+# Hangfire.MicrosoftDependencyInjection
+Hangfire JobActivator implementation using Microsoft.DependencyInjection library
