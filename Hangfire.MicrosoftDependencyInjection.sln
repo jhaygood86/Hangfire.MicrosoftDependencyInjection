@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.MicrosoftDependencyInjection", "Hangfire.MicrosoftDependencyInjection\Hangfire.MicrosoftDependencyInjection.csproj", "{73B729B6-D508-464F-9508-F07739AAA834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.MicrosoftDependencyInjection.Test", "Hangfire.MicrosoftDependencyInjection.Test\Hangfire.MicrosoftDependencyInjection.Test.csproj", "{9A297FAD-57C1-4E52-B65C-91CE09824294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B729B6-D508-464F-9508-F07739AAA834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B729B6-D508-464F-9508-F07739AAA834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B729B6-D508-464F-9508-F07739AAA834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B729B6-D508-464F-9508-F07739AAA834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A297FAD-57C1-4E52-B65C-91CE09824294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A297FAD-57C1-4E52-B65C-91CE09824294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A297FAD-57C1-4E52-B65C-91CE09824294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A297FAD-57C1-4E52-B65C-91CE09824294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D607E788-A674-4848-B82D-872BC11F01A4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Justin Haygood</Authors>
+    <PackageLicenseUrl>https://github.com/jhaygood86/Hangfire.MicrosoftDependencyInjection/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jhaygood86/Hangfire.MicrosoftDependencyInjection</PackageProjectUrl>
+    <Copyright>Copyright (C) 2018 Justin Haygood</Copyright>
+    <RepositoryUrl>https://github.com/jhaygood86/Hangfire.MicrosoftDependencyInjection.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageReleaseNotes>https://github.com/jhaygood86/Hangfire.MicrosoftDependencyInjection/blob/master/README.md</PackageReleaseNotes>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageId>Reaktix.Hangfire.MicrosoftDependencyInjection</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.Core" Version="1.6.20" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>
